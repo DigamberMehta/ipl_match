@@ -84,8 +84,8 @@ export default function MatchSchedule({ matches }) {
   const netResultColor = netResult > 0 ? "green" : netResult < 0 ? "red" : "neutral";
 
   return (
-    <Card className="p-6 w-[90%] mx-auto mt-8 shadow-lg">
-      <CardContent>
+    <Card className="md:p-6 w-full md:w-[90%] mx-auto mt-8 shadow-lg">
+      <CardContent className="!p-2">
         <h2 className="text-2xl font-bold mb-4 text-center">🏏 IPL 2025 Match Schedule</h2>
 
         <FinancialSummary
@@ -107,7 +107,7 @@ export default function MatchSchedule({ matches }) {
           setShowBookmarked={setShowBookmarked}
         />
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 md:gap-4">
           {filteredMatches.length > 0 ? (
             filteredMatches.map(match => (
               <MatchCard

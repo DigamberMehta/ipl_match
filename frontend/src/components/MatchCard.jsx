@@ -53,7 +53,7 @@ export const MatchCard = ({
       <CardContent className="p-0 w-full flex flex-col items-center relative">
         <button
           onClick={() => handleBookmark(match.Match)}
-          className={`absolute top-1 right-1 text-xl ${
+          className={`absolute top-[-15px] right-1 text-xl ${
             bookmarked ? "text-yellow-500" : "text-gray-400"
           }`}
         >
@@ -65,10 +65,10 @@ export const MatchCard = ({
             <img
               src={teamLogos[match.Home]}
               alt={`${match.Home} logo`}
-              className="w-8 h-8 mr-2"
+              className="w-8 h-8 object-contain"
             />
           )}
-          <h3 className="font-semibold text-lg text-center">{match.Home}</h3>
+          <span className="md:font-semibold md:text-lg text-md text-center">{match.Home}</span>
         </div>
         <span className="text-gray-700 font-semibold">vs</span>
         <div className="flex items-center mt-2">
@@ -76,12 +76,12 @@ export const MatchCard = ({
             <img
               src={teamLogos[match.Away]}
               alt={`${match.Away} logo`}
-              className="w-8 h-8 mr-2"
+              className="w-8 h-8 object-contain"
             />
           )}
-          <h3 className="font-semibold text-lg text-center">{match.Away}</h3>
+          <span className="md:font-semibold md:text-lg text-md text-center">{match.Away}</span>
         </div>
-        <p className="text-center text-gray-600 text-sm">
+        <p className="text-center text-gray-600 text-sm mt-2 mb-2">
           {formatDate(match.Date)} ({match.Day}) - {match.Time}
         </p>
         <p className="text-center text-gray-600 text-sm">Venue: {match.Venue}</p>
@@ -129,7 +129,7 @@ export const MatchCard = ({
               <input
                 type="number"
                 id={`amount-${match.Match}`}
-                className="shadow appearance-none border rounded w-[60%] py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                className="shadow appearance-none border rounded w-[60%] py-1 px-2 mr-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                 value={investment.amount || ""}
                 onChange={(e) => handleAmountChange(match.Match, e.target.value)}
                 placeholder="Enter amount"
