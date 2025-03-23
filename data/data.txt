@@ -1,0 +1,152 @@
+Matches with Dates and Venues:
+
+Match 1: March 22, 2025 (Sat) at 7:30 PM - Kolkata Knight Riders vs Royal Challengers Bengaluru at Kolkata
+Match 2: March 23, 2025 (Sun) at 3:30 PM - Sunrisers Hyderabad vs Rajasthan Royals at Hyderabad
+Match 3: March 23, 2025 (Sun) at 7:30 PM - Chennai Super Kings vs Mumbai Indians at Chennai
+Match 4: March 24, 2025 (Mon) at 7:30 PM - Delhi Capitals vs Lucknow Super Giants at Visakhapatnam
+Match 5: March 25, 2025 (Tue) at 7:30 PM - Gujarat Titans vs Punjab Kings at Ahmedabad
+Match 6: March 26, 2025 (Wed) at 7:30 PM - Rajasthan Royals vs Kolkata Knight Riders at Guwahati
+Match 7: March 27, 2025 (Thu) at 7:30 PM - Sunrisers Hyderabad vs Lucknow Super Giants at Hyderabad
+Match 8: March 28, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Royal Challengers Bengaluru at Chennai
+Match 9: March 29, 2025 (Sat) at 7:30 PM - Gujarat Titans vs Mumbai Indians at Ahmedabad
+Match 10: March 30, 2025 (Sun) at 3:30 PM - Delhi Capitals vs Sunrisers Hyderabad at Visakhapatnam
+Match 11: March 30, 2025 (Sun) at 7:30 PM - Rajasthan Royals vs Chennai Super Kings at Guwahati
+Match 12: March 31, 2025 (Mon) at 7:30 PM - Mumbai Indians vs Kolkata Knight Riders at Mumbai
+Match 13: April 1, 2025 (Tue) at 7:30 PM - Lucknow Super Giants vs Punjab Kings at Lucknow
+Match 14: April 2, 2025 (Wed) at 7:30 PM - Royal Challengers Bengaluru vs Gujarat Titans at Bengaluru
+Match 15: April 3, 2025 (Thu) at 7:30 PM - Kolkata Knight Riders vs Sunrisers Hyderabad at Kolkata
+Match 16: April 4, 2025 (Fri) at 7:30 PM - Lucknow Super Giants vs Mumbai Indians at Lucknow
+Match 17: April 5, 2025 (Sat) at 3:30 PM - Chennai Super Kings vs Delhi Capitals at Chennai
+Match 18: April 5, 2025 (Sat) at 7:30 PM - Punjab Kings vs Rajasthan Royals at New Chandigarh
+Match 19: April 6, 2025 (Sun) at 3:30 PM - Kolkata Knight Riders vs Lucknow Super Giants at Kolkata
+Match 20: April 6, 2025 (Sun) at 7:30 PM - Sunrisers Hyderabad vs Gujarat Titans at Hyderabad
+Match 21: April 7, 2025 (Mon) at 7:30 PM - Mumbai Indians vs Royal Challengers Bengaluru at Mumbai
+Match 22: April 8, 2025 (Tue) at 7:30 PM - Punjab Kings vs Chennai Super Kings at New Chandigarh
+Match 23: April 9, 2025 (Wed) at 7:30 PM - Gujarat Titans vs Rajasthan Royals at Ahmedabad
+Match 24: April 10, 2025 (Thu) at 7:30 PM - Royal Challengers Bengaluru vs Delhi Capitals at Bengaluru
+Match 25: April 11, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Kolkata Knight Riders at Chennai
+Match 26: April 12, 2025 (Sat) at 3:30 PM - Lucknow Super Giants vs Gujarat Titans at Lucknow
+Match 27: April 12, 2025 (Sat) at 7:30 PM - Sunrisers Hyderabad vs Punjab Kings at Hyderabad
+Match 28: April 13, 2025 (Sun) at 3:30 PM - Rajasthan Royals vs Royal Challengers Bengaluru at Jaipur
+Match 29: April 13, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Mumbai Indians at Delhi
+Match 30: April 14, 2025 (Mon) at 7:30 PM - Lucknow Super Giants vs Chennai Super Kings at Lucknow
+Match 31: April 15, 2025 (Tue) at 7:30 PM - Punjab Kings vs Kolkata Knight Riders at New Chandigarh
+Match 32: April 16, 2025 (Wed) at 7:30 PM - Delhi Capitals vs Rajasthan Royals at Delhi
+Match 33: April 17, 2025 (Thu) at 7:30 PM - Mumbai Indians vs Sunrisers Hyderabad at Mumbai
+Match 34: April 18, 2025 (Fri) at 7:30 PM - Royal Challengers Bengaluru vs Punjab Kings at Bengaluru
+Match 35: April 19, 2025 (Sat) at 3:30 PM - Gujarat Titans vs Delhi Capitals at Ahmedabad
+Match 36: April 19, 2025 (Sat) at 7:30 PM - Rajasthan Royals vs Lucknow Super Giants at Jaipur
+Match 37: April 20, 2025 (Sun) at 3:30 PM - Punjab Kings vs Royal Challengers Bengaluru at New Chandigarh
+Match 38: April 20, 2025 (Sun) at 7:30 PM - Mumbai Indians vs Chennai Super Kings at Mumbai
+Match 39: April 21, 2025 (Mon) at 7:30 PM - Kolkata Knight Riders vs Gujarat Titans at Kolkata
+Match 40: April 22, 2025 (Tue) at 7:30 PM - Lucknow Super Giants vs Delhi Capitals at Lucknow
+Match 41: April 23, 2025 (Wed) at 7:30 PM - Sunrisers Hyderabad vs Mumbai Indians at Hyderabad
+Match 42: April 24, 2025 (Thu) at 7:30 PM - Royal Challengers Bengaluru vs Rajasthan Royals at Bengaluru
+Match 43: April 25, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Sunrisers Hyderabad at Chennai
+Match 44: April 26, 2025 (Sat) at 7:30 PM - Kolkata Knight Riders vs Punjab Kings at Kolkata
+Match 45: April 27, 2025 (Sun) at 3:30 PM - Mumbai Indians vs Lucknow Super Giants at Mumbai
+Match 46: April 27, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Royal Challengers Bengaluru at Delhi
+Match 47: April 28, 2025 (Mon) at 7:30 PM - Rajasthan Royals vs Gujarat Titans at Jaipur
+Match 48: April 29, 2025 (Tue) at 7:30 PM - Delhi Capitals vs Kolkata Knight Riders at Delhi
+Match 49: April 30, 2025 (Wed) at 7:30 PM - Chennai Super Kings vs Punjab Kings at Chennai
+Match 50: May 1, 2025 (Thu) at 7:30 PM - Rajasthan Royals vs Mumbai Indians at Jaipur
+Match 51: May 2, 2025 (Fri) at 7:30 PM - Gujarat Titans vs Sunrisers Hyderabad at Ahmedabad
+Match 52: May 3, 2025 (Sat) at 7:30 PM - Royal Challengers Bengaluru vs Chennai Super Kings at Bengaluru
+Match 53: May 4, 2025 (Sun) at 3:30 PM - Kolkata Knight Riders vs Rajasthan Royals at Kolkata
+Match 54: May 4, 2025 (Sun) at 7:30 PM - Punjab Kings vs Lucknow Super Giants at Dharamshala
+Match 55: May 5, 2025 (Mon) at 7:30 PM - Sunrisers Hyderabad vs Delhi Capitals at Hyderabad
+Match 56: May 6, 2025 (Tue) at 7:30 PM - Mumbai Indians vs Gujarat Titans at Mumbai
+Match 57: May 7, 2025 (Wed) at 7:30 PM - Kolkata Knight Riders vs Chennai Super Kings at Kolkata
+Match 58: May 8, 2025 (Thu) at 7:30 PM - Punjab Kings vs Delhi Capitals at Dharamshala
+Match 59: May 9, 2025 (Fri) at 7:30 PM - Lucknow Super Giants vs Royal Challengers Bengaluru at Lucknow
+Match 60: May 10, 2025 (Sat) at 7:30 PM - Sunrisers Hyderabad vs Kolkata Knight Riders at Hyderabad
+Match 61: May 11, 2025 (Sun) at 3:30 PM - Punjab Kings vs Mumbai Indians at Dharamshala
+Match 62: May 11, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Gujarat Titans at Delhi
+Match 63: May 12, 2025 (Mon) at 7:30 PM - Chennai Super Kings vs Rajasthan Royals at Chennai
+Match 64: May 13, 2025 (Tue) at 7:30 PM - Royal Challengers Bengaluru vs Sunrisers Hyderabad at Bengaluru
+Match 65: May 14, 2025 (Wed) at 7:30 PM - Gujarat Titans vs Lucknow Super Giants at Ahmedabad
+Match 66: May 15, 2025 (Thu) at 7:30 PM - Mumbai Indians vs Delhi Capitals at Mumbai
+Match 67: May 16, 2025 (Fri) at 7:30 PM - Rajasthan Royals vs Punjab Kings at Jaipur
+Match 68: May 17, 2025 (Sat) at 7:30 PM - Royal Challengers Bengaluru vs Kolkata Knight Riders at Bengaluru
+Match 69: May 18, 2025 (Sun) at 3:30 PM - Gujarat Titans vs Chennai Super Kings at Ahmedabad
+Match 70: May 18, 2025 (Sun) at 7:30 PM - Lucknow Super Giants vs Sunrisers Hyderabad at Lucknow
+Qualifier 1: May 20, 2025 (Tue) at 7:30 PM at Hyderabad
+Eliminator: May 21, 2025 (Wed) at 7:30 PM at Hyderabad
+Qualifier 2: May 23, 2025 (Fri) at 7:30 PM at Kolkata
+Final: May 25, 2025 (Sun) at 7:30 PM at Kolkata
+Matches with Dates and Venues:
+
+Match 1: March 22, 2025 (Sat) at 7:30 PM - Kolkata Knight Riders vs Royal Challengers Bengaluru at Kolkata
+Match 2: March 23, 2025 (Sun) at 3:30 PM - Sunrisers Hyderabad vs Rajasthan Royals at Hyderabad
+Match 3: March 23, 2025 (Sun) at 7:30 PM - Chennai Super Kings vs Mumbai Indians at Chennai
+Match 4: March 24, 2025 (Mon) at 7:30 PM - Delhi Capitals vs Lucknow Super Giants at Visakhapatnam
+Match 5: March 25, 2025 (Tue) at 7:30 PM - Gujarat Titans vs Punjab Kings at Ahmedabad
+Match 6: March 26, 2025 (Wed) at 7:30 PM - Rajasthan Royals vs Kolkata Knight Riders at Guwahati
+Match 7: March 27, 2025 (Thu) at 7:30 PM - Sunrisers Hyderabad vs Lucknow Super Giants at Hyderabad
+Match 8: March 28, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Royal Challengers Bengaluru at Chennai
+Match 9: March 29, 2025 (Sat) at 7:30 PM - Gujarat Titans vs Mumbai Indians at Ahmedabad
+Match 10: March 30, 2025 (Sun) at 3:30 PM - Delhi Capitals vs Sunrisers Hyderabad at Visakhapatnam
+Match 11: March 30, 2025 (Sun) at 7:30 PM - Rajasthan Royals vs Chennai Super Kings at Guwahati
+Match 12: March 31, 2025 (Mon) at 7:30 PM - Mumbai Indians vs Kolkata Knight Riders at Mumbai
+Match 13: April 1, 2025 (Tue) at 7:30 PM - Lucknow Super Giants vs Punjab Kings at Lucknow
+Match 14: April 2, 2025 (Wed) at 7:30 PM - Royal Challengers Bengaluru vs Gujarat Titans at Bengaluru
+Match 15: April 3, 2025 (Thu) at 7:30 PM - Kolkata Knight Riders vs Sunrisers Hyderabad at Kolkata
+Match 16: April 4, 2025 (Fri) at 7:30 PM - Lucknow Super Giants vs Mumbai Indians at Lucknow
+Match 17: April 5, 2025 (Sat) at 3:30 PM - Chennai Super Kings vs Delhi Capitals at Chennai
+Match 18: April 5, 2025 (Sat) at 7:30 PM - Punjab Kings vs Rajasthan Royals at New Chandigarh
+Match 19: April 6, 2025 (Sun) at 3:30 PM - Kolkata Knight Riders vs Lucknow Super Giants at Kolkata
+Match 20: April 6, 2025 (Sun) at 7:30 PM - Sunrisers Hyderabad vs Gujarat Titans at Hyderabad
+Match 21: April 7, 2025 (Mon) at 7:30 PM - Mumbai Indians vs Royal Challengers Bengaluru at Mumbai
+Match 22: April 8, 2025 (Tue) at 7:30 PM - Punjab Kings vs Chennai Super Kings at New Chandigarh
+Match 23: April 9, 2025 (Wed) at 7:30 PM - Gujarat Titans vs Rajasthan Royals at Ahmedabad
+Match 24: April 10, 2025 (Thu) at 7:30 PM - Royal Challengers Bengaluru vs Delhi Capitals at Bengaluru
+Match 25: April 11, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Kolkata Knight Riders at Chennai
+Match 26: April 12, 2025 (Sat) at 3:30 PM - Lucknow Super Giants vs Gujarat Titans at Lucknow
+Match 27: April 12, 2025 (Sat) at 7:30 PM - Sunrisers Hyderabad vs Punjab Kings at Hyderabad
+Match 28: April 13, 2025 (Sun) at 3:30 PM - Rajasthan Royals vs Royal Challengers Bengaluru at Jaipur
+Match 29: April 13, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Mumbai Indians at Delhi
+Match 30: April 14, 2025 (Mon) at 7:30 PM - Lucknow Super Giants vs Chennai Super Kings at Lucknow
+Match 31: April 15, 2025 (Tue) at 7:30 PM - Punjab Kings vs Kolkata Knight Riders at New Chandigarh
+Match 32: April 16, 2025 (Wed) at 7:30 PM - Delhi Capitals vs Rajasthan Royals at Delhi
+Match 33: April 17, 2025 (Thu) at 7:30 PM - Mumbai Indians vs Sunrisers Hyderabad at Mumbai
+Match 34: April 18, 2025 (Fri) at 7:30 PM - Royal Challengers Bengaluru vs Punjab Kings at Bengaluru
+Match 35: April 19, 2025 (Sat) at 3:30 PM - Gujarat Titans vs Delhi Capitals at Ahmedabad
+Match 36: April 19, 2025 (Sat) at 7:30 PM - Rajasthan Royals vs Lucknow Super Giants at Jaipur
+Match 37: April 20, 2025 (Sun) at 3:30 PM - Punjab Kings vs Royal Challengers Bengaluru at New Chandigarh
+Match 38: April 20, 2025 (Sun) at 7:30 PM - Mumbai Indians vs Chennai Super Kings at Mumbai
+Match 39: April 21, 2025 (Mon) at 7:30 PM - Kolkata Knight Riders vs Gujarat Titans at Kolkata
+Match 40: April 22, 2025 (Tue) at 7:30 PM - Lucknow Super Giants vs Delhi Capitals at Lucknow
+Match 41: April 23, 2025 (Wed) at 7:30 PM - Sunrisers Hyderabad vs Mumbai Indians at Hyderabad
+Match 42: April 24, 2025 (Thu) at 7:30 PM - Royal Challengers Bengaluru vs Rajasthan Royals at Bengaluru
+Match 43: April 25, 2025 (Fri) at 7:30 PM - Chennai Super Kings vs Sunrisers Hyderabad at Chennai
+Match 44: April 26, 2025 (Sat) at 7:30 PM - Kolkata Knight Riders vs Punjab Kings at Kolkata
+Match 45: April 27, 2025 (Sun) at 3:30 PM - Mumbai Indians vs Lucknow Super Giants at Mumbai
+Match 46: April 27, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Royal Challengers Bengaluru at Delhi
+Match 47: April 28, 2025 (Mon) at 7:30 PM - Rajasthan Royals vs Gujarat Titans at Jaipur
+Match 48: April 29, 2025 (Tue) at 7:30 PM - Delhi Capitals vs Kolkata Knight Riders at Delhi
+Match 49: April 30, 2025 (Wed) at 7:30 PM - Chennai Super Kings vs Punjab Kings at Chennai
+Match 50: May 1, 2025 (Thu) at 7:30 PM - Rajasthan Royals vs Mumbai Indians at Jaipur
+Match 51: May 2, 2025 (Fri) at 7:30 PM - Gujarat Titans vs Sunrisers Hyderabad at Ahmedabad
+Match 52: May 3, 2025 (Sat) at 7:30 PM - Royal Challengers Bengaluru vs Chennai Super Kings at Bengaluru
+Match 53: May 4, 2025 (Sun) at 3:30 PM - Kolkata Knight Riders vs Rajasthan Royals at Kolkata
+Match 54: May 4, 2025 (Sun) at 7:30 PM - Punjab Kings vs Lucknow Super Giants at Dharamshala
+Match 55: May 5, 2025 (Mon) at 7:30 PM - Sunrisers Hyderabad vs Delhi Capitals at Hyderabad
+Match 56: May 6, 2025 (Tue) at 7:30 PM - Mumbai Indians vs Gujarat Titans at Mumbai
+Match 57: May 7, 2025 (Wed) at 7:30 PM - Kolkata Knight Riders vs Chennai Super Kings at Kolkata
+Match 58: May 8, 2025 (Thu) at 7:30 PM - Punjab Kings vs Delhi Capitals at Dharamshala
+Match 59: May 9, 2025 (Fri) at 7:30 PM - Lucknow Super Giants vs Royal Challengers Bengaluru at Lucknow
+Match 60: May 10, 2025 (Sat) at 7:30 PM - Sunrisers Hyderabad vs Kolkata Knight Riders at Hyderabad
+Match 61: May 11, 2025 (Sun) at 3:30 PM - Punjab Kings vs Mumbai Indians at Dharamshala
+Match 62: May 11, 2025 (Sun) at 7:30 PM - Delhi Capitals vs Gujarat Titans at Delhi
+Match 63: May 12, 2025 (Mon) at 7:30 PM - Chennai Super Kings vs Rajasthan Royals at Chennai
+Match 64: May 13, 2025 (Tue) at 7:30 PM - Royal Challengers Bengaluru vs Sunrisers Hyderabad at Bengaluru
+Match 65: May 14, 2025 (Wed) at 7:30 PM - Gujarat Titans vs Lucknow Super Giants at Ahmedabad
+Match 66: May 15, 2025 (Thu) at 7:30 PM - Mumbai Indians vs Delhi Capitals at Mumbai
+Match 67: May 16, 2025 (Fri) at 7:30 PM - Rajasthan Royals vs Punjab Kings at Jaipur
+Match 68: May 17, 2025 (Sat) at 7:30 PM - Royal Challengers Bengaluru vs Kolkata Knight Riders at Bengaluru
+Match 69: May 18, 2025 (Sun) at 3:30 PM - Gujarat Titans vs Chennai Super Kings at Ahmedabad
+Match 70: May 18, 2025 (Sun) at 7:30 PM - Lucknow Super Giants vs Sunrisers Hyderabad at Lucknow
+Qualifier 1: May 20, 2025 (Tue) at 7:30 PM at Hyderabad
+Eliminator: May 21, 2025 (Wed) at 7:30 PM at Hyderabad
+Qualifier 2: May 23, 2025 (Fri) at 7:30 PM at Kolkata
+Final: May 25, 2025 (Sun) at 7:30 PM at Kolkata

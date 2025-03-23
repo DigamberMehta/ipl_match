@@ -1,0 +1,668 @@
+[
+  {
+    "Match": 1,
+    "Date": "2025-03-22",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 2,
+    "Date": "2025-03-23",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Rajasthan Royals",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 3,
+    "Date": "2025-03-23",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Mumbai Indians",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 4,
+    "Date": "2025-03-24",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Visakhapatnam"
+  },
+  {
+    "Match": 5,
+    "Date": "2025-03-25",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Punjab Kings",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 6,
+    "Date": "2025-03-26",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Guwahati"
+  },
+  {
+    "Match": 7,
+    "Date": "2025-03-27",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 8,
+    "Date": "2025-03-28",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 9,
+    "Date": "2025-03-29",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Mumbai Indians",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 10,
+    "Date": "2025-03-30",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Visakhapatnam"
+  },
+  {
+    "Match": 11,
+    "Date": "2025-03-30",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Chennai Super Kings",
+    "Venue": "Guwahati"
+  },
+  {
+    "Match": 12,
+    "Date": "2025-03-31",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 13,
+    "Date": "2025-04-01",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Punjab Kings",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 14,
+    "Date": "2025-04-02",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Gujarat Titans",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 15,
+    "Date": "2025-04-03",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 16,
+    "Date": "2025-04-04",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Mumbai Indians",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 17,
+    "Date": "2025-04-05",
+    "Day": "Sat",
+    "Time": "3:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Delhi Capitals",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 18,
+    "Date": "2025-04-05",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Rajasthan Royals",
+    "Venue": "New Chandigarh"
+  },
+  {
+    "Match": 19,
+    "Date": "2025-04-06",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 20,
+    "Date": "2025-04-06",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Gujarat Titans",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 21,
+    "Date": "2025-04-07",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 22,
+    "Date": "2025-04-08",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Chennai Super Kings",
+    "Venue": "New Chandigarh"
+  },
+  {
+    "Match": 23,
+    "Date": "2025-04-09",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Rajasthan Royals",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 24,
+    "Date": "2025-04-10",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Delhi Capitals",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 25,
+    "Date": "2025-04-11",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 26,
+    "Date": "2025-04-12",
+    "Day": "Sat",
+    "Time": "3:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Gujarat Titans",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 27,
+    "Date": "2025-04-12",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Punjab Kings",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 28,
+    "Date": "2025-04-13",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Jaipur"
+  },
+  {
+    "Match": 29,
+    "Date": "2025-04-13",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Mumbai Indians",
+    "Venue": "Delhi"
+  },
+  {
+    "Match": 30,
+    "Date": "2025-04-14",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Chennai Super Kings",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 31,
+    "Date": "2025-04-15",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "New Chandigarh"
+  },
+  {
+    "Match": 32,
+    "Date": "2025-04-16",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Rajasthan Royals",
+    "Venue": "Delhi"
+  },
+  {
+    "Match": 33,
+    "Date": "2025-04-17",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 34,
+    "Date": "2025-04-18",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Punjab Kings",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 35,
+    "Date": "2025-04-19",
+    "Day": "Sat",
+    "Time": "3:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Delhi Capitals",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 36,
+    "Date": "2025-04-19",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Jaipur"
+  },
+  {
+    "Match": 37,
+    "Date": "2025-04-20",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "New Chandigarh"
+  },
+  {
+    "Match": 38,
+    "Date": "2025-04-20",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Chennai Super Kings",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 39,
+    "Date": "2025-04-21",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Gujarat Titans",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 40,
+    "Date": "2025-04-22",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Delhi Capitals",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 41,
+    "Date": "2025-04-23",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Mumbai Indians",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 42,
+    "Date": "2025-04-24",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Rajasthan Royals",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 43,
+    "Date": "2025-04-25",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 44,
+    "Date": "2025-04-26",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Punjab Kings",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 45,
+    "Date": "2025-04-27",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 46,
+    "Date": "2025-04-27",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Delhi"
+  },
+  {
+    "Match": 47,
+    "Date": "2025-04-28",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Gujarat Titans",
+    "Venue": "Jaipur"
+  },
+  {
+    "Match": 48,
+    "Date": "2025-04-29",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Delhi"
+  },
+  {
+    "Match": 49,
+    "Date": "2025-04-30",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Punjab Kings",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 50,
+    "Date": "2025-05-01",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Mumbai Indians",
+    "Venue": "Jaipur"
+  },
+  {
+    "Match": 51,
+    "Date": "2025-05-02",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 52,
+    "Date": "2025-05-03",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Chennai Super Kings",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 53,
+    "Date": "2025-05-04",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Rajasthan Royals",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 54,
+    "Date": "2025-05-04",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Dharamshala"
+  },
+  {
+    "Match": 55,
+    "Date": "2025-05-05",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Delhi Capitals",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 56,
+    "Date": "2025-05-06",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Gujarat Titans",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 57,
+    "Date": "2025-05-07",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Chennai Super Kings",
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 58,
+    "Date": "2025-05-08",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Delhi Capitals",
+    "Venue": "Dharamshala"
+  },
+  {
+    "Match": 59,
+    "Date": "2025-05-09",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Royal Challengers Bengaluru",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 60,
+    "Date": "2025-05-10",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Sunrisers Hyderabad",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 61,
+    "Date": "2025-05-11",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Punjab Kings",
+    "Away": "Mumbai Indians",
+    "Venue": "Dharamshala"
+  },
+  {
+    "Match": 62,
+    "Date": "2025-05-11",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Delhi Capitals",
+    "Away": "Gujarat Titans",
+    "Venue": "Delhi"
+  },
+  {
+    "Match": 63,
+    "Date": "2025-05-12",
+    "Day": "Mon",
+    "Time": "7:30 PM",
+    "Home": "Chennai Super Kings",
+    "Away": "Rajasthan Royals",
+    "Venue": "Chennai"
+  },
+  {
+    "Match": 64,
+    "Date": "2025-05-13",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 65,
+    "Date": "2025-05-14",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 66,
+    "Date": "2025-05-15",
+    "Day": "Thu",
+    "Time": "7:30 PM",
+    "Home": "Mumbai Indians",
+    "Away": "Delhi Capitals",
+    "Venue": "Mumbai"
+  },
+  {
+    "Match": 67,
+    "Date": "2025-05-16",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Rajasthan Royals",
+    "Away": "Punjab Kings",
+    "Venue": "Jaipur"
+  },
+  {
+    "Match": 68,
+    "Date": "2025-05-17",
+    "Day": "Sat",
+    "Time": "7:30 PM",
+    "Home": "Royal Challengers Bengaluru",
+    "Away": "Kolkata Knight Riders",
+    "Venue": "Bengaluru"
+  },
+  {
+    "Match": 69,
+    "Date": "2025-05-18",
+    "Day": "Sun",
+    "Time": "3:30 PM",
+    "Home": "Gujarat Titans",
+    "Away": "Chennai Super Kings",
+    "Venue": "Ahmedabad"
+  },
+  {
+    "Match": 70,
+    "Date": "2025-05-18",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Lucknow Super Giants",
+    "Away": "Sunrisers Hyderabad",
+    "Venue": "Lucknow"
+  },
+  {
+    "Match": 71,
+    "Date": "2025-05-20",
+    "Day": "Tue",
+    "Time": "7:30 PM",
+    "Home": "Qualifier 1",
+    "Away": null,
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 72,
+    "Date": "2025-05-21",
+    "Day": "Wed",
+    "Time": "7:30 PM",
+    "Home": "Eliminator",
+    "Away": null,
+    "Venue": "Hyderabad"
+  },
+  {
+    "Match": 73,
+    "Date": "2025-05-23",
+    "Day": "Fri",
+    "Time": "7:30 PM",
+    "Home": "Qualifier 2",
+    "Away": null,
+    "Venue": "Kolkata"
+  },
+  {
+    "Match": 74,
+    "Date": "2025-05-25",
+    "Day": "Sun",
+    "Time": "7:30 PM",
+    "Home": "Final",
+    "Away": null,
+    "Venue": "Kolkata"
+  }
+]
