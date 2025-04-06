@@ -165,28 +165,28 @@
     "Match": 19,
     "Date": "2025-04-06",
     "Day": "Sun",
-    "Time": "3:30 PM",
-    "Home": "Kolkata Knight Riders",
-    "Away": "Lucknow Super Giants",
-    "Venue": "Kolkata"
-  },
-  {
-    "Match": 20,
-    "Date": "2025-04-06",
-    "Day": "Sun",
     "Time": "7:30 PM",
     "Home": "Sunrisers Hyderabad",
     "Away": "Gujarat Titans",
     "Venue": "Hyderabad"
   },
   {
-    "Match": 21,
+    "Match": 20,
     "Date": "2025-04-07",
     "Day": "Mon",
     "Time": "7:30 PM",
     "Home": "Mumbai Indians",
     "Away": "Royal Challengers Bengaluru",
     "Venue": "Mumbai"
+  },
+ `{
+    "Match": 21,
+    "Date": "2025-04-07",
+    "Day": "Tue",
+    "Time": "3:30 PM",
+    "Home": "Kolkata Knight Riders",
+    "Away": "Lucknow Super Giants",
+    "Venue": "Kolkata"
   },
   {
     "Match": 22,
