@@ -27,7 +27,7 @@ export default function MatchSchedule({ matches }) {
   const [showBookmarked, setShowBookmarked] = useState(false);
   const [casinoEntries, setCasinoEntries] = useState([]);
   const [isCasinoDialogOpen, setIsCasinoDialogOpen] = useState(false);
-  const [newCasinoEntry, setNewCasinoEntry] = useState({ description: "", amount: 0, type: "Profit" });
+  const [newCasinoEntry, setNewCasinoEntry] = useState({ description: "", amount: 0, type: "Profit", date: "" });
   const [editCasinoEntry, setEditCasinoEntry] = useState(null);
 
   useEffect(() => {
@@ -97,7 +97,7 @@ export default function MatchSchedule({ matches }) {
   const handleOpenCasinoDialog = () => {
     setIsCasinoDialogOpen(true);
     setEditCasinoEntry(null);
-    setNewCasinoEntry({ description: "", amount: 0, type: "Profit" });
+    setNewCasinoEntry({ description: "", amount: 0, type: "Profit", date: "" });
   };
 
   const handleCloseCasinoDialog = () => {
@@ -113,12 +113,14 @@ export default function MatchSchedule({ matches }) {
   };
 
   const handleAddCasinoEntry = () => {
+    const currentDateTime = new Date().toLocaleString();
+    const updatedEntry = { ...newCasinoEntry, date: currentDateTime };
     if (editCasinoEntry) {
       setCasinoEntries((prev) =>
-        prev.map((entry) => (entry === editCasinoEntry ? { ...newCasinoEntry } : entry))
+        prev.map((entry) => (entry === editCasinoEntry ? updatedEntry : entry))
       );
     } else {
-      setCasinoEntries((prev) => [...prev, newCasinoEntry]);
+      setCasinoEntries((prev) => [...prev, updatedEntry]);
     }
     handleCloseCasinoDialog();
   };
@@ -138,7 +140,7 @@ export default function MatchSchedule({ matches }) {
       <CardContent className="!p-4">
         <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">🏏 IPL 2025 Match Schedule</h2>
         
-        {/* Improved Financial Summary UI */}
+        {/* Financial Summary UI */}
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg shadow-md mb-6">
           <h3 className="text-xl font-semibold mb-4 text-gray-700">Financial Overview</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -205,12 +207,15 @@ export default function MatchSchedule({ matches }) {
           {casinoEntries.length > 0 ? (
             <ul className="space-y-3">
               {casinoEntries.map((entry, index) => (
-                <li key={index} className="flex items-center justify-between bg-gray-50 p-3 rounded-lg">
-                  <span className="text-gray-700">{entry.description}</span>
-                  <span className={entry.type === "Profit" ? "text-green-600" : "text-red-600"}>
-                    {entry.type}: ₹{entry.amount}
-                  </span>
-                  <div className="flex space-x-2">
+                <li key={index} className="flex flex-col bg-gray-50 p-3 rounded-lg">
+                  <div className="flex items-center justify-between">
+                    <span className="text-gray-700">{entry.description}</span>
+                    <span className={entry.type === "Profit" ? "text-green-600" : "text-red-600"}>
+                      {entry.type}: ₹{entry.amount}
+                    </span>
+                  </div>
+                  <div className="text-sm text-gray-500 mt-1">Date: {entry.date}</div>
+                  <div className="flex space-x-2 mt-2">
                     <button
                       onClick={() => handleEditCasinoEntry(entry)}
                       className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-1 px-3 rounded"
@@ -232,7 +237,7 @@ export default function MatchSchedule({ matches }) {
           )}
         </div>
 
-        {/* Improved Dialog UI */}
+        {/* Dialog UI */}
         <Dialog open={isCasinoDialogOpen} onOpenChange={setIsCasinoDialogOpen}>
           <DialogContent className="sm:max-w-md rounded-lg">
             <DialogHeader>
